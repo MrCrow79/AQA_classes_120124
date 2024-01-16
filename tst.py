@@ -1,6 +1,7 @@
 import json
 
-def test_1():
+def test_10():
+    a = 0
     pass
 
 def test_2():
