@@ -1,0 +1,4 @@
+name, age, position, salary
+Alex, 25, Support, 1000
+Sofia, 28, PM, 1500
+Greg, 45, Senior Dev, 4000
